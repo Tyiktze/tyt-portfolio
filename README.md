@@ -1,16 +1,65 @@
-# React + Vite
+# 👋 Hi, I'm TYT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Frontend Developer | Game Developer | Content Creator
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Live Portfolio
+👉 [View My Website](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🧠 About Me
 
-## Expanding the ESLint configuration
+I'm a passionate developer who enjoys building web applications using modern tools like React and Bootstrap, while also being a Roblox Developer that develop games.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎯 Currently learning: React, frontend architecture
+- 💻 Interested in: Web development, UI design, backend basics
+- 🧩 I enjoy building projects and improving my problem-solving skills
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Bootstrap
+
+### Tools
+- Git & GitHub
+- VS Code
+- Vite
+
+---
+
+## 🚀 Projects
+
+### 🧱 Project 1 — Portfolio Website
+A personal portfolio built using React and Bootstrap.
+
+🔗 Live: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+🔗 Code: https://github.com/Tyiktze/tyt-portfolio/
+
+---
+
+
+## 📫 Contact Me
+
+- 📧 Email: ImPreventingWebScrapers@example.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/tyiktze/
+- 🐙 GitHub: https://github.com/Tyiktze 
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyiktze&show_icons=true&theme=dark)
+
+---
+
+## ⚡ Fun Fact
+
+I break things, then fix them… then break them again on purpose.
