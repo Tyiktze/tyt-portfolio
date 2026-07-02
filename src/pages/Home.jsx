@@ -16,10 +16,11 @@ import About from "../components/About";
 import Skills from "../components/Skills";
 import Contact from "../components/Contact";
 import Footer from "../components/Footer";
+import { Scroll } from "@react-three/drei";
 
 const Home = () => {
   return (
-    <div>
+    <>
       <Navbar />
       <Hero />
       <About />
@@ -27,7 +28,7 @@ const Home = () => {
       <Projects />
       <Contact />
       <Footer />
-    </div>
+    </>
   );
 };
 

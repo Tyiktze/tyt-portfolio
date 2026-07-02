@@ -5,9 +5,11 @@ import { Canvas } from "@react-three/fiber";
 
 const ThreeJsTest = () => {
   return (
-    <Canvas>
-      <Experience />
-    </Canvas>
+    <div style={{ width: "100vw", height: "100vh" }}>
+      <Canvas>
+        <Experience />
+      </Canvas>
+    </div>
   );
 };
 
